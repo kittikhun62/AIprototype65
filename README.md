@@ -6,6 +6,6 @@ kittikhun
 
 ## code basic linux ([code](https://github.com/kittikhun62/AIprototype65/blob/main/Code.pdf))
 
-## web page ((https://kittikhun62.github.io/LegalDoc_NLP/))
+## web page ([click](https://kittikhun62.github.io/LegalDoc_NLP/))
 
 ## web app
